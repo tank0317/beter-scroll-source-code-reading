@@ -5,3 +5,5 @@ better-scroll 是一款重点解决移动端（未来可能会考虑 PC 端）�
 [better-scroll源码阅读（一）：初始化过程](https://github.com/tank0317/beter-scroll-source-code-reading/issues/1)
 
 [better-scroll源码阅读（二）：滚动相关核心代码](https://github.com/tank0317/beter-scroll-source-code-reading/issues/2)
+
+[better-scroll源码阅读（三）：上拉下拉与点击事件](https://github.com/tank0317/beter-scroll-source-code-reading/issues/3)
